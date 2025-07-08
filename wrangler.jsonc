@@ -1,0 +1,5 @@
+{
+  "name": "personal-color",
+  "compatibility_date": "2025-01-08",
+  "main": "src/index.ts"
+}

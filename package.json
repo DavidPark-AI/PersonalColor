@@ -1,0 +1,19 @@
+{
+  "name": "personal-color",
+  "version": "1.0.0",
+  "description": "Find your personal color season and perfect palette",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "build": "wrangler build"
+  },
+  "keywords": ["color", "palette", "cloudflare", "workers"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241106.0",
+    "typescript": "^5.0.0",
+    "wrangler": "^3.0.0"
+  }
+}
