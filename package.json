@@ -1,0 +1,17 @@
+{
+  "name": "personal-color",
+  "version": "1.0.0",
+  "description": "Personal Color Finder Service",
+  "main": "src/index.ts",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "keywords": ["personal-color", "color-analysis", "cloudflare-worker"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240621.0",
+    "wrangler": "^3.60.3"
+  }
+}
