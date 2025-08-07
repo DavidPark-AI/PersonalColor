@@ -292,5 +292,4 @@ function getHomePage(): string {
     </script>
 </body>
 </html>
-  `;
 }
